@@ -1,0 +1,6 @@
+name=input("enter your name ")
+print(name )
+age=input("enter the your age ")
+print(age)
+ag=input("enter the your ag number")
+print(ag)

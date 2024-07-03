@@ -1,0 +1,6 @@
+print("Farhan")
+print("Hello wrold")
+print("Hello wrold")
+print("Hello wrold")
+print("Hello wrold")
+print("Hello wrold")
